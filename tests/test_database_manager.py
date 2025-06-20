@@ -53,7 +53,7 @@ def test_database_manager():
             print(f"  - Total documents: {schema.get('total_documents', 0)}")
             print(f"  - Fields found: {len(schema.get('fields', {}))}")
             
-            # Show first few fields
+            # Show first few field
             fields = schema.get('fields', {})
             for i, (field_name, field_info) in enumerate(list(fields.items())[:3]):
                 print(f"  - {field_name}: {field_info.get('type', [])} (frequency: {field_info.get('frequency', 0):.2f})")
