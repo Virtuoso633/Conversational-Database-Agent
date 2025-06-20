@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+# VSCode
+.vscode/
+# macOS
+.DS_Store
+# Jupyter
+.ipynb_checkpoints/
+# Docker
+*.log
+# Streamlit cache
+.streamlit/
+# Misc
+*.sqlite3
+*.db
