@@ -139,11 +139,14 @@ docker run -p 8000:8000 --env-file .env conversational-db-agent
 
 ## 🎥 Demo Video
 
-- [Demo Video Link (Google Drive/YouTube)](https://your-demo-link)
+- [Demo Video Link (Google Drive/YouTube)](https://drive.google.com/drive/folders/17H1yD7YqIqrtIg6fHQ2Lwi7X-bNYpsuc?usp=sharing)
 
 ## Demo Images
 
-- [Links](https://your-demo-link)
+- [Links](<img width="1440" alt="Screenshot 2025-06-21 at 5 07 23 AM" src="https://github.com/user-attachments/assets/5d5788eb-d18c-4924-aad5-e5cd20165f5d" />)
+- [Links](<img width="1440" alt="Screenshot 2025-06-21 at 5 07 35 AM" src="https://github.com/user-attachments/assets/9de1979b-69d4-4c17-8328-d2ed6f970376" />)
+- [Links](<img width="1440" alt="Screenshot 2025-06-21 at 5 07 49 AM" src="https://github.com/user-attachments/assets/c7d4db87-cc1b-47fd-a521-c304c88bfdc0" />)
+- [Links](<img width="1440" alt="Screenshot 2025-06-21 at 5 08 04 AM" src="https://github.com/user-attachments/assets/14058837-f0c5-484b-8585-7a0f2866d906" />)
 
 ---
 
